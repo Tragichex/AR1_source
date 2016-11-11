@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="YardMainContainerload" size="50.000000 42.730301" />
+    <ImageTarget name="YardMaintenance" size="50.000000 56.132668" />
+    <ImageTarget name="STXLogo" size="10.000000 4.216000" />
+    <ImageTarget name="dollar-bill-jpg" size="10.000000 5.714286" />
+    <ImageTarget name="Container-Tropical" size="10.000000 3.650000" />
+  </Tracking>
+</QCARConfig>
