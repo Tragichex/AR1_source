@@ -3,8 +3,21 @@ guid: 2ce7298b91ee9a04e98f9070b15ab84a
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
+    100000: //RootNode
+    100002: containercranegrabber
+    100004: containerrcrane
+    400000: //RootNode
+    400002: containercranegrabber
+    400004: containerrcrane
+    2300000: containercranegrabber
+    2300002: containerrcrane
+    3300000: containercranegrabber
+    3300002: containerrcrane
     4300000: containerrcrane
     4300002: containercranegrabber
+    6400000: containercranegrabber
+    6400002: containerrcrane
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 3

@@ -3,6 +3,48 @@ guid: 86f43252e5b823045bbc0cc721b1eb59
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
+    100000: //RootNode
+    100002: containercarrier
+    100004: containergrabber
+    100006: wheel008
+    100008: wheel1
+    100010: wheel2
+    100012: wheel3
+    100014: wheel4
+    100016: wheel5
+    100018: wheel6
+    100020: wheel7
+    400000: //RootNode
+    400002: containercarrier
+    400004: containergrabber
+    400006: wheel008
+    400008: wheel1
+    400010: wheel2
+    400012: wheel3
+    400014: wheel4
+    400016: wheel5
+    400018: wheel6
+    400020: wheel7
+    2300000: containercarrier
+    2300002: containergrabber
+    2300004: wheel008
+    2300006: wheel1
+    2300008: wheel2
+    2300010: wheel3
+    2300012: wheel4
+    2300014: wheel5
+    2300016: wheel6
+    2300018: wheel7
+    3300000: containercarrier
+    3300002: containergrabber
+    3300004: wheel008
+    3300006: wheel1
+    3300008: wheel2
+    3300010: wheel3
+    3300012: wheel4
+    3300014: wheel5
+    3300016: wheel6
+    3300018: wheel7
     4300000: wheel3
     4300002: containergrabber
     4300004: wheel1
@@ -13,6 +55,17 @@ ModelImporter:
     4300014: wheel6
     4300016: wheel7
     4300018: containercarrier
+    6400000: containercarrier
+    6400002: containergrabber
+    6400004: wheel008
+    6400006: wheel1
+    6400008: wheel2
+    6400010: wheel3
+    6400012: wheel4
+    6400014: wheel5
+    6400016: wheel6
+    6400018: wheel7
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 3
